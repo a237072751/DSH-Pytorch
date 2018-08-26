@@ -1,6 +1,6 @@
 # DSH-Pytorch
 This is a pytorch implementation of "Deep Supervised Hashing for Fast Image Retrieval".  
-Note that tiis is a non-official implementation. If you want to compare with DSH in your research, please refer to the [code](https://github.com/lhmRyan/deep-supervised-hashing-DSH) here.  
+Note that this is a non-official implementation. If you want to compare with DSH in your research, please refer to the [code](https://github.com/lhmRyan/deep-supervised-hashing-DSH) here.  
 This repo is just for personal usage and for communication. Some implementation details may be different.
 
 # Requirement
